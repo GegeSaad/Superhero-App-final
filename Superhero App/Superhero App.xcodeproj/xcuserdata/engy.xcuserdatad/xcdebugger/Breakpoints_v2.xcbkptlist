@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7354DF1E-9F90-43B3-8365-1F811630DDEE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F62C4E17-E294-47A0-92F5-8804170625FD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Superhero App/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F62C4E17-E294-47A0-92F5-8804170625FD - fdbc130c80759013"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.HStack&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0&gt; in Superhero_App.ContentView.body.getter : some"
+                  moduleName = "Superhero App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/engy/Desktop/Superhero%20App/Superhero%20App/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "143">
+                  <Actions>
+                     <BreakpointActionProxy
+                        ActionExtensionID = "Xcode.BreakpointAction.DebuggerCommand">
+                        <ActionContent
+                           consoleCommand = "">
+                        </ActionContent>
+                     </BreakpointActionProxy>
+                  </Actions>
+               </Location>
+               <Location
+                  uuid = "F62C4E17-E294-47A0-92F5-8804170625FD - 95ae60c0f30cf72f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.HStack&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0&gt; in Superhero_App.ContentView.body.getter : some"
+                  moduleName = "Superhero App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/engy/Desktop/Superhero%20App/Superhero%20App/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
